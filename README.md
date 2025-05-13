@@ -1,4 +1,4 @@
-![Video Preview](/Black Modern Minimalist Simple Technology Banner.mp4)
+<img src="/banner.gif" width="800" height="400" alt="Animated Banner" />
 <h1 align="center">Hi 👋, I'm Md Belayet Hossain</h1>
 <h3 align="center">💻 Frontend Developer | Mern Stack Developer | Aspiring Full-Stack Developer | Technology</h3>
 
