@@ -1,3 +1,4 @@
+![Video Preview](/Black Modern Minimalist Simple Technology Banner.mp4)
 <h1 align="center">Hi 👋, I'm Md Belayet Hossain</h1>
 <h3 align="center">💻 Frontend Developer | Mern Stack Developer | Aspiring Full-Stack Developer | Technology</h3>
 
