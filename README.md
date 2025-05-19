@@ -57,13 +57,18 @@
 <br />
 <br />
 
+## 🏅 Competitive Programming
 <a href="https://judge.beecrowd.com/en/profile/891981" target="_blank">
-  <img src="assets/beecrowd_stats.png" alt="Beecrowd Stats" height="250px">
+  <img src="/beecrowd_stats.png" alt="Beecrowd Stats" height="500px" weight="400px">
+</a>
+<br />
+<br />
+<a href="https://judge.beecrowd.com/en/profile/891981" target="_blank">
+  <img src="https://img.shields.io/badge/Beecrowd-Profile-blueviolet?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNCIgaGVpZ2h0PSIxNCI+PHJlY3Qgd2lkdGg9IjE0IiBoZWlnaHQ9IjE0IiByeD0iMiIgZmlsbD0iIzYwNjBmNSIvPjxwYXRoIGQ9Ik02LjUsNkg4LjNWMTFoLS44VjZ6IiBmaWxsPSIjZmZmIi8+PC9zdmc+" alt="Beecrowd Profile" height="50px">
 </a>
 
-<a href="https://judge.beecrowd.com/en/profile/891981" target="_blank">
-  <img src="https://img.shields.io/badge/Beecrowd-Profile-blueviolet?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNCIgaGVpZ2h0PSIxNCI+PHJlY3Qgd2lkdGg9IjE0IiBoZWlnaHQ9IjE0IiByeD0iMiIgZmlsbD0iIzYwNjBmNSIvPjxwYXRoIGQ9Ik02LjUsNkg4LjNWMTFoLS44VjZ6IiBmaWxsPSIjZmZmIi8+PC9zdmc+" alt="Beecrowd Profile" height="25px">
-</a>
+<br />
+<br />
 
 ## 📊 GitHub Stats
 
