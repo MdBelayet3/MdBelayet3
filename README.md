@@ -57,6 +57,14 @@
 <br />
 <br />
 
+<a href="https://judge.beecrowd.com/en/profile/891981" target="_blank">
+  <img src="assets/beecrowd_stats.png" alt="Beecrowd Stats" height="250px">
+</a>
+
+<a href="https://judge.beecrowd.com/en/profile/891981" target="_blank">
+  <img src="https://img.shields.io/badge/Beecrowd-Profile-blueviolet?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNCIgaGVpZ2h0PSIxNCI+PHJlY3Qgd2lkdGg9IjE0IiBoZWlnaHQ9IjE0IiByeD0iMiIgZmlsbD0iIzYwNjBmNSIvPjxwYXRoIGQ9Ik02LjUsNkg4LjNWMTFoLS44VjZ6IiBmaWxsPSIjZmZmIi8+PC9zdmc+" alt="Beecrowd Profile" height="25px">
+</a>
+
 ## 📊 GitHub Stats
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdbelayet3&show_icons=true&locale=en" alt="mdbelayet3" /></p>
