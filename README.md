@@ -13,7 +13,7 @@
 - ⚡ Fun fact **Funny😂**
 <br/>
 
-<h3 align="left">Connect with me:</h3>
+## 📞 Connect with me:
 <p align="left">
 <a href="https://dev.to/md_belayethossain_56e787" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="md belayet hossain" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/md belayet hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md belayet hossain" height="30" width="40" /></a>
@@ -46,6 +46,20 @@
 <br />
 <br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdbelayet3&show_icons=true&locale=en&layout=compact" alt="mdbelayet3" /></p>
+## 🎓 Education
+
+| Degree        | Institution                      | Year            |
+| ------------- | -------------------------------- | --------------- |
+| Bachelor's in Computer Science and Engineering | Northern University Bangladesh   | In progress |
+| Bachelor's in Computing and Information System | Daffodil Internationsl University   | 2024 |
+| Higher Secondary | Hajiganj Degree College | 2021 |
+| Secondary | Rahimanagar BAB High School | 2019 |
+<br />
+<br />
+
+## 📊 GitHub Stats
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdbelayet3&show_icons=true&locale=en" alt="mdbelayet3" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdbelayet3&show_icons=true&locale=en&layout=compact" alt="mdbelayet3" /></p>
+
+
