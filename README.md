@@ -86,7 +86,11 @@ I'm a passionate **MERN Stack Developer** who loves building full-stack web appl
 
 ## 📊 GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdbelayet3&show_icons=true&locale=en" alt="mdbelayet3" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdbelayet3&show_icons=true&locale=en&layout=compact" alt="mdbelayet3" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mdbelayet3&show_icons=true&locale=en" alt="mdbelayet3" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdbelayet3&show_icons=true&locale=en&layout=compact" alt="mdbelayet3" /></p>
+<br />
+<br />
+
+[![Belayet's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MdBelayet3&theme=react-dark&area=true&hide_border=true&color=5783a6&line=00a1ff&point=00a1ff)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
