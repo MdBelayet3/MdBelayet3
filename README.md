@@ -2,11 +2,8 @@
 
 <!-- Animated Typing Headline -->  
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code:semibold&size=24&duration=4000&pause=500&color=1E90FF&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Md+Belayet+Hossain;A+MERN+Stack+Developer;Aspiring+Full-Stack+Developer;Technology+Enthusiast;Building+Scalable+Web+Apps;Open+Source+Contributor" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code:semibold&size=24&duration=4000&pause=500&color=1E90FF&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Md+Belayet+Hossain;A+MERN+Stack+Developer;Technology+Enthusiast;Building+Scalable+Web+Apps;Open+Source+Contributor;Aspiring+To+Create+A+AI+Automation+Agency" />
 </h1>
-
-<h1 align="center">Hi 👋, I'm Md Belayet Hossain</h1>
-<h3 align="center">💻 Frontend Developer | Mern Stack Developer | Aspiring Full-Stack Developer | Technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdbelayet3&label=Profile%20views&color=0e75b6&style=flat" alt="mdbelayet3" /> </p>
 
