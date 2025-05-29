@@ -5,16 +5,27 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code:semibold&size=24&duration=4000&pause=500&color=1E90FF&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Md+Belayet+Hossain;A+MERN+Stack+Developer;Technology+Enthusiast;Building+Scalable+Web+Apps;Open+Source+Contributor;Aspiring+To+Create+A+AI+Automation+Agency" />
 </h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdbelayet3&label=Profile%20views&color=0e75b6&style=flat" alt="mdbelayet3" /> </p>
+<!-- Profile Views Counter -->
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mdbelayet3&label=Profile%20views&color=0e75b6&style=flat" alt="mdbelayet3" /> </p>
 
-- 🌱 I’m currently learning **Next js**
 
-- 💬 Ask me about **Web development like React,JS,MongoDB etc.**
+---
 
-- 📫 How to reach me **mdbelayethossain015@gmail.com**
+### 👋 Hi, I'm Md Belayet Hossain
 
-- ⚡ Fun fact **Funny😂**
-<br/>
+I'm a passionate **MERN Stack Developer** who loves building full-stack web applications with clean UI, powerful backend, and smooth user experience.
+
+🔧 **As my Tech Stack I Use:**
+- **Frontend:** React.js, Tailwind CSS  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB  
+- **Authentication:** Firebase, JWT  
+
+🔐 I specialize in creating secure, responsive, and scalable web apps with authentication, CRUD functionalities, and protected routes.
+🚀 I believe in learning by building. Every project I create is an opportunity to level up and push boundaries. Currently, I'm focused on sharpening my skills and working on real-world projects that solve real problems. My ambition is i will create a AI Automation Agency.
+🌱 Always learning. Always building. Always thinking as a Entrepreneur.
+
+
 
 ## 📞 Connect with me:
 <p align="left">
